@@ -1,0 +1,85 @@
+html{
+    max-width:100%;height:auto;
+}
+
+body{
+    background-color:hwb(128 92% 2%);
+}
+
+#nav{
+    position: static;
+    height: 60px;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    background-color:#1F2F16;
+    text-align: center; 
+    position: absolute;
+}  
+
+#nav a {
+    color: white;
+    font-family: "kobenhavn-cs", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    text-decoration: none;
+    font-size: 22px;
+    position: absolute;
+    top:12px;
+    left: 14px;
+  }
+
+#nav a:hover {
+    color: #c89547;
+  }
+  
+#nav a.active {
+    color: #c89547;;
+  } 
+
+#title{
+    color: #1F2F16;
+    font-family: "eight", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+     text-align: center;
+    position: relative;
+    top: 80px;
+    font-size: 50px;
+
+}
+
+div{
+    font-family: "kobenhavn-sans", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 16;
+    line-height: 1.4;
+    color:#1F2F16;
+}
+
+.cite{
+    width: 75%;
+    line-height: 27px;
+    
+}
+
+#cite1{
+    position: absolute;
+    left: 200px;
+    top: 200px;
+}
+
+
+#cite2{
+    position: absolute;
+    left: 200px;
+    top: 300px;
+}
+
+#cite3{
+    position: absolute;
+    left: 200px;
+    top: 370px;
+}
+
