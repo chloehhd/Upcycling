@@ -96,6 +96,8 @@ button:hover {
   position: absolute;
   left: 46%;
   top: 2060px;
+    /* top: 2650px; */
+   /* padding: 15px; */
   text-decoration: none;
 }
 
@@ -258,3 +260,8 @@ h2{
   object-fit: cover;
 }
 
+/* #gif{
+  position: absolute;
+  top: 2000px;
+  left: 380px;
+} */
