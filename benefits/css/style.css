@@ -1,0 +1,76 @@
+body{
+    background-color:hwb(128 92% 2%);
+    cursor: default;
+}
+
+#nav{
+    position: static;
+    height: 60px;
+    left: 0px;
+    right: 0px;
+     top: 0px;
+    background-color:#1F2F16;
+    position: absolute;
+    text-align: center;
+}  
+#nav a {
+    color: white;
+    font-family: "kobenhavn-cs", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    padding: 15.9px;
+    text-decoration: none;
+    font-size: 22px;
+    position: relative;
+    left: 10px;
+    top: 14px;
+  }
+
+#nav a:hover {
+    color: #c89547;
+  }
+  
+#nav a.active {
+    color: #c89547;;
+  } 
+  
+
+#main-content{
+    width: 30%;
+    height: 100%;
+    position: absolute;
+    left: 140px;
+    top: 160px;
+}
+
+#header{
+    color: #1F2F16;
+    position: absolute;
+    left: 140px;
+    top: 100px;
+    font-family: "eight", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+div{
+    font-family: "kobenhavn-sans", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 16;
+    line-height: 1.4;
+    color:#1F2F16;
+}
+
+/* #fish1{
+    position: relative;
+    left: 700px;
+    top: 100px;
+} */
+
+#gif2{
+    position: relative;
+    left: 650px;
+    top: 10px;
+}
