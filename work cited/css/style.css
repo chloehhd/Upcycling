@@ -4,6 +4,7 @@ html{
 
 body{
     background-color:hwb(128 92% 2%);
+     cursor: default;
 }
 
 #nav{
